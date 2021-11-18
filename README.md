@@ -1,4 +1,4 @@
-- TEste para Pleno WebMotors.
+- Teste para Pleno WebMotors.
 - Utilizei um template para realizar o teste de vocês.
 - É um template com diversas camadas utilizando DDD, CQRS, diversos patterns para se aproximar daquilo que é o mundo real.
 
