@@ -34,8 +34,7 @@
 
 # Iniciar projeto
 - Setar WebMotorApi como iniciador do projeto. Usar ambiente Dev e verificar appsettings.
-- Deve-se rodar as migrations em seus respectiovs contextos. Exemplo:
-- update-database -context AuthDbContext, ApplicationDbContext e EventStoreSqlContext / Vai dar pau se não gerar essas migrations bonitinhas.
+- Deve-se rodar as migrations em seus respectivos contextos. Exemplo: update-database -context AuthDbContext, ApplicationDbContext e EventStoreSqlContext / Vai dar pau se não gerar essas migrations bonitinhas.
 - Depois de geradas, iniciar o projeto no VS, registrar um user, e chamar as apis.
 
 # Swagger (Dev)
